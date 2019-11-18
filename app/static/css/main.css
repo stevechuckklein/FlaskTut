@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #4444;
+	color: #444;
 }
 
 /*
@@ -22,7 +22,7 @@ header h1.logo {
 	font-size: 1.7em;
 	color: #fff;
 	text-transform: uppercase;
-	float: right;
+	float: left;
 }
 
 header h1.logo:hover {
@@ -45,6 +45,7 @@ div.home {
 	-webkit-border-radius: 6px;
 	   -moz-border-radius: 6px;
 	       -border-radius: 6px;
+   color: #;
 }
 
 div.about {
